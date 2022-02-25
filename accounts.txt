@@ -1,0 +1,63 @@
+NOTE: The database name must be 'ibm2104_assignment' with ip = '127.0.0.1', the account must be 'admin' with no password.
+
+---Customer Accounts---
+Customer Username: aliciayap
+Customer Password: 123456
+
+Customer Username: josephtan
+Customer Password: 123456
+
+Customer Username: adamlee
+Customer Password: 123456
+
+Customer Username: daniellee
+Customer Password: 123456
+
+Customer Username: JohnDoe
+Customer Password: 1234
+
+Customer Username: JohnLim
+Customer Password: 12345
+
+Customer Username: stu0607
+Customer Password: 123456
+
+Customer Username: HarryLewis
+Customer Password: 1234567
+
+Customer Username: AlexM
+Customer Password: Alex1234
+
+Customer Username: HarisC
+Customer Password: Haris1234
+
+Customer Username: KylieDown
+Customer Password: Kylie1234
+
+Customer Username: NatLoh
+Customer Password: Nat1234
+
+---Staff Accounts---
+Staff Email: teoh@test.com
+Staff Password: 123456
+Staff Management: Manager
+
+Staff Email: eugene@test.com
+Staff Password: 123456
+Staff Management: Normal Management
+
+Staff Email: jenna@test.com
+Staff Password: 123456
+Staff Management: Superior
+
+Staff Email: irhan@test.com
+Staff Password: 123456
+Staff Management: Superior
+
+Staff Email: diana@test.com
+Staff Password: 123456
+Staff Management: Manager
+
+Staff Email: ameena@test.com
+Staff Password: 123456
+Staff Management: Manager
